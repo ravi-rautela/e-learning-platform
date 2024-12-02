@@ -1,7 +1,3 @@
-Here’s a detailed example of a `README.md` file for your application:
-
----
-
 # **E-Learning Platform**
 
 An advanced e-learning platform designed to connect students, instructors, and administrators. This application offers functionality for user management, course creation, and role-based dashboards.
